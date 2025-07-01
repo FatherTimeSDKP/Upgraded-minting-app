@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "FTP Commercial License",
+  "author": {
+    "@type": "Person",
+    "name": "Donald Paul Smith",
+    "alternateName": "Father Time"
+  },
+  "identifier": "10.5281/zenodo.15745609",
+  "datePublished": "2025-01-18",
+  "url": "https://fathertimesdkp.github.io/licenses/ftp-commercial-license.html",
+  "license": "ipfs://bafkrei.../ftp-commercial-license.pdf",
+  "keywords": ["SDKP", "EOS", "QCC", "SD&N", "TimeSeal", "Quantum Time", "Scientific NFT"],
+  "image": "ipfs://bafkreihq6bo77naumgr44sigk7xgnriqs5otbabmghxxfjmlfoivjyiq7q"
+}
