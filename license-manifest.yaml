@@ -1,0 +1,19 @@
+id: ftp-commercial-license
+name: FTP Commercial License
+author: Donald Paul Smith
+framework:
+  - SDKP
+  - EOS
+  - SD&N
+  - QCC
+description: >
+  Official NFT-based license for commercial use of the SDKP-EOS-SD&N-QCC theoretical framework.
+  Includes empirical validation data, simulation signatures, and royalty enforcement.
+type: erc-1155
+royalty: 17.5%
+doi: 10.5281/zenodo.15745609
+token_id: 0
+origin_timestamp: 2025-01-18
+chainlink_timestamp: 2025-05-25T19:25:37.834255Z
+license_url: ipfs://bafkrei.../ftp-commercial-license.pdf
+metadata_url: ipfs://bafkrei.../ftp-commercial-license.json
