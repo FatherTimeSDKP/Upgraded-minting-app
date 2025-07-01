@@ -1,0 +1,10 @@
+This repository contains licensed intellectual property covered by
+the FTP Commercial License NFT (token ID 0).
+
+Use of the included frameworks (SDKP, EOS, SD&N, QCC) in any
+commercial, for-profit, or enterprise context **requires holding a
+valid license NFT** minted by Donald Paul Smith (Father Time).
+
+Unauthorized reproduction or commercial use is prohibited.
+
+See ftp-commercial-license.pdf and metadata for details.
