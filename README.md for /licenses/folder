@@ -1,0 +1,118 @@
+Title: FTP Commercial License
+Author: Donald Paul Smith (aka Father Time)
+Date of Origin: January 18, 2025
+Version: 1.0
+Token ID: 0
+DOI: 10.5281/zenodo.15745609
+
+⸻
+
+⚖️ License Grant
+
+This document certifies that the holder of Token ID #0 of the FTPOnChainLicense1155 contract is granted a non-exclusive, non-transferable license to commercially utilize the SDKP–EOS–SD&N–QCC theoretical and simulation frameworks.
+
+This license permits:
+	•	Commercial, for-profit implementation of SDKP gravitational and entropy models.
+	•	Use in proprietary applications, products, and scientific systems.
+	•	Generation of derivative research or simulations based on the framework.
+
+⸻
+
+🔒 Attribution Requirements
+
+All public-facing uses of the framework must include visible attribution to:
+
+Donald Paul Smith
+Inventor of SDKP, EOS, SD&N, QCC
+Known as: Father Time
+
+In digital publications or simulations, include this badge or a verifiable link to the NFT or metadata JSON.
+
+⸻
+
+💰 Royalties
+
+The license includes a 17.5% royalty fee, automatically enforced via smart contract on resale or secondary license minting. Fee recipient is:
+
+0x311540cD8761e15F0B01aaa6Fe0F7E8f583B4Bf7
+
+⸻
+
+🔗 Blockchain Provenance
+	•	Smart Contract: FTPOnChainLicense1155
+	•	Chainlink Timestamp: 2025-05-25T19:25:37.834255Z
+	•	IPFS Metadata: ipfs://bafkrei.../ftp-commercial-license.json
+	•	IPFS License PDF: ipfs://bafkrei.../ftp-commercial-license.pdf
+
+⸻
+
+🧠 Covered Frameworks
+	•	SDKP – Size, Density, Kinetics, Time
+	•	EOS – Earth Orbital Speed as constant
+	•	SD&N – Shape, Dimension, Number resonance system
+	•	QCC – Quantum Computerization Consciousness
+	•	TimeSeal – Authenticated timestamp framework
+
+⸻
+
+📜 Simulation Reference
+	•	Simulation ID: kapnack-entropy-v2.0-221-F
+	•	Validation: SDKP gravitational field compression through entropy-phase transitions
+	•	Repository: https://github.com/FatherTimeSDKP/
+
+⸻
+
+❌ Limitations
+
+This license does not grant:
+	•	Patent protection for hardware use of the framework.
+	•	Resale or sublicensing of the license NFT itself.
+	•	Use in military or surveillance systems.
+
+⸻
+
+📎 Signature
+
+Issued by:
+Donald Paul Smith
+Quantum Physicist, Creator of SDKP and QCC
+Father Time, 2025
+
+# FTP Commercial License NFT
+
+This folder contains metadata and documentation for the **FTP Commercial License NFT**, which grants commercial rights to the SDKP–EOS–SD&N–QCC framework, created by Donald Paul Smith (aka Father Time).
+
+## 🔖 What’s Included
+
+| File | Description |
+|------|-------------|
+| `ftp-commercial-license.json` | ERC-1155 NFT metadata, mintable and IPFS-pinned |
+| `ftp-commercial-license.pdf` | Full legal terms of the commercial license |
+| `ftp-commercial-license.svg` | Visual license badge for use in products |
+| `simulation-preview.mp4` | Optional dynamic preview of the SDKP simulation |
+| `entropy-validation.json` | (optional) Entropy + time signature validation |
+| `simulation-input.json` | (optional) SDKP or QCC simulation parameters |
+| `license-manifest.yaml` | Indexable metadata for aggregators |
+| `LICENSE.txt` | GitHub-visible license warning |
+| `ftp-commercial-license.metadata.jsonld` | Semantic metadata for scholarly and blockchain archives |
+
+## 🧠 Frameworks Licensed
+
+- **SDKP**: Size, Density, Kinetics → Time
+- **EOS**: Earth Orbital Speed as foundational constant
+- **SD&N**: Shape–Dimension–Number entanglement model
+- **QCC**: Quantum Computerization Consciousness
+
+## 📜 DOI
+
+This license corresponds to a verified Zenodo record:
+
+[10.5281/zenodo.15745609](https://doi.org/10.5281/zenodo.15745609)
+
+## 🧾 License Use
+
+Holding Token ID `#0` of the `FTPOnChainLicense1155` contract gives the holder:
+- Commercial usage rights (including for-profit products)
+- Simulation deployment rights
+- Required attribution enforcement
+- Royalty-based secondary licensing
