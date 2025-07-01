@@ -1,0 +1,12 @@
+/licenses/
+├── ftp-commercial-license.json
+├── ftp-commercial-license.pdf
+├── ftp-commercial-license.svg
+├── simulation-preview.mp4
+├── entropy-validation.json 
+├── simulation-input.json 
+├── results-summary.md 
+├── license-manifest.yaml
+├── LICENSE.txt
+├── README.md
+├── ftp-commercial-license.metadata.jsonld (optional)
