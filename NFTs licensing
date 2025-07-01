@@ -1,0 +1,76 @@
+{
+  "name": "FTP Commercial License",
+  "description": "Official Commercial License granting rights to use the SDKP–EOS–SD&N–QCC framework for enterprise-grade, for-profit applications. Created by Donald Paul Smith (Father Time). All commercial implementations must credit the author.",
+  "image": "ipfs://bafkreihq6bo77naumgr44sigk7xgnriqs5otbabmghxxfjmlfoivjyiq7q/ftp-commercial-license.svg",
+  "external_url": "https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/donald_paul_smith_badge.html",
+  "animation_url": "ipfs://bafybeibf5ehdk7mxun3mdy7lgay25ivsh2kmvdww73fgv2rj4yozfd36me/simulation-preview.mp4",
+  "license_url": "ipfs://bafkreifh3xwq7gz3nzph77wtgjtc3rt4z4t3pmq2zibfjirnvlcjq2zkpy/ftp-commercial-license.pdf",
+  "seller_fee_basis_points": 1750,
+  "fee_recipient": "0x311540cD8761e15F0B01aaa6Fe0F7E8f583B4Bf7",
+  "attributes": [
+    {
+      "trait_type": "License Type",
+      "value": "Commercial"
+    },
+    {
+      "trait_type": "Royalty",
+      "value": "17.5%"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 0
+    },
+    {
+      "trait_type": "Origin Timestamp",
+      "value": "January 18, 2025"
+    },
+    {
+      "trait_type": "Framework",
+      "value": "SDKP–EOS–SD&N–QCC"
+    },
+    {
+      "trait_type": "Framework Components",
+      "value": ["SDKP", "EOS", "SD&N", "QCC"]
+    },
+    {
+      "trait_type": "Author",
+      "value": "Donald Paul Smith (Father Time)"
+    },
+    {
+      "trait_type": "Physical Review Ack",
+      "value": "LB18832 - February 13, 2025"
+    },
+    {
+      "trait_type": "Chainlink Timestamp",
+      "value": "2025-05-25T19:25:37.834255Z"
+    },
+    {
+      "trait_type": "IP Claims",
+      "value": ["SDKP", "SD&N", "QCC", "EOS", "TimeSeal"]
+    },
+    {
+      "trait_type": "SDT Equation",
+      "value": "T ∝ S / D"
+    },
+    {
+      "trait_type": "Core Theory",
+      "value": "Time emerges from Scale/Density structure"
+    },
+    {
+      "trait_type": "Empirical Validation",
+      "value": "SDKP gravitational simulations validate framework across scales"
+    },
+    {
+      "trait_type": "Scientific Method",
+      "value": "Classical gravity enhanced by SDKP adjustments with entropy correlations"
+    },
+    {
+      "trait_type": "DOI",
+      "value": "10.5281/zenodo.15745609"
+    },
+    {
+      "trait_type": "Simulation Signature",
+      "value": "kapnack-entropy-v2.0-221-F"
+    }
+  ]
+}
